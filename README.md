@@ -1,11 +1,8 @@
 <div align="center">
 
   <!-- Typing-svg (Hello World) -->
-  <div>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=197670&&width=435&lines=console.log(%22Hello%2C+World%22);フロー状態!&center=true&size=**25**"/>
-    </a>
-  </div>
+
+[![Welcome Typewriter](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=197670&&width=435&lines=console.log(%22Hello%2C+World%22);フロー状態!&center=true&size=**25**>)](https://git.io/typing-svg)
 
   <!-- GIF -->
 <div> <img src="assets/cybergeometry.gif" width="450px"> </div>
